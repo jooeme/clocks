@@ -59,11 +59,12 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(44, 44, 44, 0.44);
-  border-radius: 20px;
-  padding: 40px 30px;
+  background: rgba(44, 44, 44, 0.444);
+  border-radius: 2vw;
+  padding: 1vw 2vw;
   font-family: 'JetBrains Mono';
   font-size: 444px;
+  font-weight: 700;
 }
 .line {
   position: fixed;
