@@ -47,6 +47,12 @@ export default {
 };
 </script>
 <style scoped>
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('../assets/font/JetBrainsMono-Bold.woff2') format('woff2'),
+    url('../assets/font/JetBrainsMono-Bold.woff') format('woff');
+}
+
 .date {
   width: 100vw;
   height: 100vh;
